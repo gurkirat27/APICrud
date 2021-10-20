@@ -1,5 +1,5 @@
 package ca.sheridancollege.security;
 
-public class SecurityConfig {
+public class SecurityConf {
 
 }
